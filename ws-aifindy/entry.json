@@ -1,14 +1,13 @@
 {
-  "name": "AIFindy",
-  "description": "AIFindy es una plataforma que facilita la búsqueda de herramientas de Inteligencia Artificial. Ofrece una base de datos con herramientas IA ordenadas por precio y categoría para que el usuario encuentre la que mejor se adapte a sus necesidades. La base de datos se actualiza todos los días para ofrecer información actualizada. Además, AIFindy ofrece recursos especializados que ayudan a los usuarios a tomar decisiones informadas al momento de seleccionar herramientas de IA.",
-  "link": "/",
-  "price": "$0.00",
-  "link_image": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/272b6229-aa8c-4016-b52a-7614fe4d3696/Captura_de_pantalla_2023-01-20_a_las_22.20.46/w=3840,quality=80,fit=scale-down",
+  "name": "DALL-E 2",
+  "description": "DALL·E 2 puede crear imágenes y obras originales y realistas a partir de una descripción de texto. Puede combinar conceptos, atributos y estilos.",
+  "link": "https://openai.com/dall-e-2/",
+  "price": "$15.00",
+  "link_image": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e014d8db-967e-4d95-8f12-1dd3505a0ae7/Captura_de_pantalla_2023-01-14_a_las_4.08.53/w=3840,quality=90,fit=scale-down",
   "props": [
-    "Gratis",
-    "Buscador",
-    "Investigación",
-    "Marketing",
-    "Recursos"
+    "Freemium",
+    "Fotos/Arte",
+    "Generador de Imágenes",
+    "Diseño"
   ]
 }
