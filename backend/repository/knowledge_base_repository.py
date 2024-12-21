@@ -38,9 +38,3 @@ class KnowledgeBase:
         new_entry = Entry(name)
         self.entries.append(new_entry)
         return new_entry
-    
-    def __str__(self):
-        res = f"[{self.description}]"
-        for entry in self.entries:
-            res += f"\n{entry}\n"
-        return res
